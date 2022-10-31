@@ -1,3 +1,3 @@
-# Beta Policies
+# Beta
 
-If you have any questions about the policies, please submit an issue.
+If you have any questions about the policies, find bugs, etc. please submit an issue.
